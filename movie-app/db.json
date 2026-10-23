@@ -1,0 +1,87 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Shabbir",
+      "email": "shabbir@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Interstellar",
+      "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "description": "Astronauts travel through a wormhole in search of a new home for humanity.",
+      "genre": "Sci-Fi",
+      "year": 2014,
+      "rating": 8.7
+    },
+    {
+      "id": 2,
+      "title": "The Batman",
+      "image": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "description": "Batman investigates corruption in Gotham City while facing a mysterious criminal.",
+      "genre": "Action",
+      "year": 2022,
+      "rating": 7.8
+    },
+    {
+      "id": 3,
+      "title": "Dune: Part Two",
+      "image": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "description": "Paul Atreides joins the Fremen and begins his journey toward destiny.",
+      "genre": "Sci-Fi",
+      "year": 2024,
+      "rating": 8.5
+    },
+    {
+      "id": 4,
+      "title": "Jawan",
+      "image": "https://image.tmdb.org/t/p/w500/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+      "description": "A man takes on a mission to expose corruption and fight for justice.",
+      "genre": "Action",
+      "year": 2023,
+      "rating": 7.0
+    },
+    {
+      "id": 5,
+      "title": "3 Idiots",
+      "image": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "description": "Three engineering students discover friendship, learning, and the meaning of success.",
+      "genre": "Comedy",
+      "year": 2009,
+      "rating": 8.4
+    },
+    {
+      "id": 6,
+      "title": "The Conjuring",
+      "image": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "description": "Paranormal investigators help a family facing terrifying supernatural events.",
+      "genre": "Horror",
+      "year": 2013,
+      "rating": 7.5
+    },
+    {
+      "id": 7,
+      "title": "La La Land",
+      "image": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "description": "A musician and an aspiring actress pursue their dreams in Los Angeles.",
+      "genre": "Romance",
+      "year": 2016,
+      "rating": 8.0
+    },
+    {
+      "id": 8,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "image": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "description": "Miles Morales travels across the multiverse and meets other Spider-People.",
+      "genre": "Animation",
+      "year": 2023,
+      "rating": 8.6
+    }
+  ],
+  "favorites": [],
+  "watchlist": []
+}
